@@ -3,7 +3,6 @@ install_deps:
 
 test:
     py.test tests
-	# or python tests/test_advanced.py?
 
 build:
 	python setup.py build

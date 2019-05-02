@@ -1,2 +1,2 @@
-# Blockchain-Demo
-Blockchain demo platform for educational purposes
+# Python-Project-Template
+Template for future Python projects
